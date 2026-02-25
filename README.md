@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Thoon Phyo
 
-<!--
-**ThoonPhyo/ThoonPhyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web & Python Developer  
+🔌 IoT Enthusiast  
+🚀 Passionate about building real-world technology solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+I focus on web development and Python backend development, building responsive and user-friendly web applications.
+
+Alongside web technologies, I explore IoT and embedded systems using ESP32 and Arduino.  
+I enjoy combining software and hardware to create practical solutions.
+
+---
+
+## 🛠 Tech Stack
+
+### 🌐 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&theme=dark" />
+</p>
+
+### 🐍 Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask&theme=dark" />
+</p>
+
+### 🔌 IoT & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,firebase,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+⭐ Always learning. Always improving.
