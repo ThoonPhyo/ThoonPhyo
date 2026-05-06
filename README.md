@@ -29,7 +29,7 @@ I enjoy combining software and hardware to create practical solutions.
 
 ### 🗄 Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 </p>
 
 ### 🔌 IoT & Tools
