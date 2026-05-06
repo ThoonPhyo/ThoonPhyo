@@ -19,7 +19,7 @@ I enjoy combining software and hardware to create practical solutions.
 
 ### 🌐 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,json&theme=dark" />
 </p>
 
 ### 🐍 Backend
@@ -27,9 +27,14 @@ I enjoy combining software and hardware to create practical solutions.
   <img src="https://skillicons.dev/icons?i=python,flask,django&theme=dark" />
 </p>
 
+### 🗄 Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,&theme=dark" />
+</p>
+
 ### 🔌 IoT & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,firebase,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,git,github,vscode&theme=dark" />
 </p>
 
 ---
