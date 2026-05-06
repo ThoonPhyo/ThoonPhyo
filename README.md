@@ -29,7 +29,7 @@ I enjoy combining software and hardware to create practical solutions.
 
 ### 🔌 IoT & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,firebase,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arduino,c,c++,firebase,git,github,vscode&theme=dark" />
 </p>
 
 ---
