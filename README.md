@@ -27,6 +27,11 @@ I enjoy combining software and hardware to create practical solutions.
   <img src="https://skillicons.dev/icons?i=python,flask,django&theme=dark" />
 </p>
 
+### 🔄 Data Format & API
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=json&theme=dark" />
+</p>
+
 ### 🗄 Database
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
