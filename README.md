@@ -24,7 +24,7 @@ I enjoy combining software and hardware to create practical solutions.
 
 ### 🐍 Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask, django&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django&theme=dark" />
 </p>
 
 ### 🔌 IoT & Tools
