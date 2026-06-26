@@ -17,7 +17,7 @@ I enjoy combining software and hardware to create practical solutions.
 
 ## 🛠 Tech Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=မင်းရဲ့GitHubUsername&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThoonPhyo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌐 Frontend
 <p align="left">
