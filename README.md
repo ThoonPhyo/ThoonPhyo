@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thoon Phyo
+# 👋 Hi, I'm Thoon Phyo Aung
 
 💻 Web & Python Developer  
 🔌 IoT Enthusiast  
