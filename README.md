@@ -7,7 +7,7 @@
 ---
 ## 🛠 Tech Stack
 
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThoonPhyoAung&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThoonPhyoAung&theme=github_dark)
 
 ## 🧑‍💻 About Me
 
