@@ -7,7 +7,7 @@
 ---
 ## 🛠 Tech Stack
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThoonPhyoAung&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThoonPhyoAung&theme=github_dark)
 
 ## 🧑‍💻 About Me
 
