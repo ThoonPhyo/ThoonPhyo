@@ -1,42 +1,61 @@
 # 👋 Hi, I'm Thoon Phyo Aung
 
-💻 Web & Python Developer  
-🔌 IoT Enthusiast  
-🚀 Passionate about building real-world technology solutions  
+💻 Full-Stack Web & Python Developer  
+🔌 IoT Enthusiast & Embedded Developer  
+🚀 Passionate about bridging hardware and web technologies to solve real-world problems.
 
 ---
-
 
 ## 🧑‍💻 About Me
 
-I focus on web development and Python backend development, building responsive and user-friendly web applications.
+I am a Developer focused on building modern web applications and scalable backend systems using **Python** and JavaScript (**MERN Stack**).
 
-Alongside web technologies, I explore IoT and embedded systems using ESP32 and Arduino.  
-I enjoy combining software and hardware to create practical solutions.
+Beyond web technologies, I actively build IoT projects with **ESP32** and **Arduino**, integrating hardware devices with cloud and web dashboards for real-time monitoring and automation.
 
 ---
 
+## 🛠️ Tech Stack
 
 ### 🌐 Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind,json&theme=dark" />
 </p>
 
-### 🐍 Backend
+### 🐍 Backend & Runtime
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,django&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,nodejs,express&theme=dark" />
 </p>
 
-### 🗄 Database
+### 🗄️ Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" />
 </p>
 
-### 🔌 IoT & Tools
+### 🔌 IoT, C++ & Dev Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,c,cpp,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-⭐ Always learning. Always improving.
+## 🚀 Featured Projects
+
+- **[Project Name 1]** - Brief description of your web or MERN project. *(Add Repository Link)*
+- **[IoT Dashboard Project]** - ESP32/Arduino integration with web interface. *(Add Repository Link)*
+
+---
+
+## 📬 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:thoonphyoaung7.email@example.com">
+    <img src="https://img.shields.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+⭐ *Always learning. Always building.*
