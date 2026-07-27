@@ -19,7 +19,7 @@ I enjoy combining software and hardware to create practical solutions.
 
 ### 🌐 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,json&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind,json&theme=dark" />
 </p>
 
 ### 🐍 Backend
