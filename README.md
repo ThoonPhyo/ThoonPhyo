@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Thoon Phyo Aung
 
-💻 Full-Stack Web & Python Developer  
-🔌 IoT Enthusiast & Embedded Developer  
-🚀 Passionate about bridging hardware and web technologies to solve real-world problems.
+💻 Full-Stack Web Developer & Python Specialist  
+🔌 IoT Enthusiast & Embedded Hardware Developer  
+🚀 Passionate about bridging hardware sensors and web dashboards to build real-world automation systems.
 
 ---
 
 ## 🧑‍💻 About Me
 
-I am a Developer focused on building modern web applications and scalable backend systems using **Python** and JavaScript (**MERN Stack**).
+I am a Developer focused on building modern, responsive web applications and scalable backend systems using **Python** and JavaScript (**MERN Stack**).
 
-Beyond web technologies, I actively build IoT projects with **ESP32** and **Arduino**, integrating hardware devices with cloud and web dashboards for real-time monitoring and automation.
+Beyond traditional web engineering, I design and build **IoT & Embedded Systems** using **ESP32** and **Arduino**. I specialize in connecting microcontrollers to cloud platforms and web interfaces for real-time monitoring and control.
 
 ---
 
@@ -23,15 +23,15 @@ Beyond web technologies, I actively build IoT projects with **ESP32** and **Ardu
 
 ### 🐍 Backend & Runtime
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django&theme=dark" />
 </p>
 
 ### 🗄️ Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
 </p>
 
-### 🔌 IoT, C++ & Dev Tools
+### 🔌 IoT, Embedded & Dev Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,c,cpp,git,github,vscode&theme=dark" />
 </p>
@@ -40,18 +40,21 @@ Beyond web technologies, I actively build IoT projects with **ESP32** and **Ardu
 
 ## 🚀 Featured Projects
 
-- **[Project Name 1]** - Brief description of your web or MERN project. *(Add Repository Link)*
-- **[IoT Dashboard Project]** - ESP32/Arduino integration with web interface. *(Add Repository Link)*
+* 🛒 **[MakerHub MM](https://github.com/ThoonPhyoAung/makerhub-mm.git)**  
+  A modern, user-friendly e-commerce web application platform developed for showcasing and purchasing tech products.
+
+* 🌊 **[ESP32 Ubidots Water Level Monitor](https://github.com/ThoonPhyoAung/esp32-ubidots-waterlevel.git)**  
+  An IoT hardware-software system that monitors water levels in real-time using an ESP32 microcontroller, integrated directly with cloud telemetry services.
 
 ---
 
 ## 📬 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/thoon-phyo-3223192b9" target="_blank">
     <img src="https://img.shields.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:thoonphyoaung7.email@example.com">
+  <a href="mailto:thoonphyoaung7@gmail.com">
     <img src="https://img.shields.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
